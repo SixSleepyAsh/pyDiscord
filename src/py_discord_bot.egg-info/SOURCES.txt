@@ -1,0 +1,13 @@
+pyproject.toml
+src/main.py
+src/core/bot.py
+src/core/config.py
+src/core/registry.py
+src/core/utils.py
+src/modules/admin/cog.py
+src/modules/ping/cog.py
+src/py_discord_bot.egg-info/PKG-INFO
+src/py_discord_bot.egg-info/SOURCES.txt
+src/py_discord_bot.egg-info/dependency_links.txt
+src/py_discord_bot.egg-info/requires.txt
+src/py_discord_bot.egg-info/top_level.txt

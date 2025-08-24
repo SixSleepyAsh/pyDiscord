@@ -1,0 +1,18 @@
+{
+  "guilds": {
+    "1264827735318990920": {
+      "lobby_channel_id": 1264833453803835412,
+      "category_id": 1264827735788879914,
+      "user_limit": 10,
+      "bitrate_bps": null,
+      "delete_delay_sec": 5
+    },
+    "1407453882644303922": {
+      "lobby_channel_id": 1407453883222986857,
+      "category_id": 1407453883222986855,
+      "user_limit": 10,
+      "bitrate_bps": null,
+      "delete_delay_sec": 5
+    }
+  }
+}
